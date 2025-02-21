@@ -27,9 +27,11 @@ To achieve this, they have tasked me with analyzing the sales dataset to answer 
 
 * What is the overall customer satisfaction rate?
 
+
 ## Data Understanding
 
 The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset?resource=download. It contains 1000 rows and 14 columns and is in a csv format. During the data understanding we have done data cleaning.
+
 
 ### Top 10 Fast Moving Products
 
@@ -37,24 +39,27 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 **Findings**
 
-1. Product id 1090 has the highest records of 20 rows followed by 1062 and 1092 at 19 and 1099 and 1033 at 18 respectively indicating that they were the most sold products.
+* Product id 1090 has the highest records of 20 rows followed by 1062 and 1092 at 19 and 1099 and 1033 at 18 respectively indicating that they were the most sold products.
 
-2. The least sold products are 1040, 1011, 1041, 1083 and 1031 respectively in that order.
+* The least sold products are 1040, 1011, 1041, 1083 and 1031 respectively in that order.
+
 
 ### Channels of Purchase
 
 ![alt text](image-1.png)    
 
-1. 512 products were sold via the retail channel and 488 products via the online platform.
+* 512 products were sold via the retail channel and 488 products via the online platform.
 
+### Payment Channel Preference
 
 ![alt text](image-2.png)
 
 **Findings**
 
-1. Most of the Credit Card Users prefer the retail sale channel similar to the cash payment option which is the general assumption.
+* Most of the Credit Card Users prefer the retail sale channel similar to the cash payment option which is the general assumption.
 
-2. The customers that pay via Bank Transfers prefer the online platform.
+* The customers that pay via Bank Transfers prefer the online platform.
+
 
 ### Customer Type Preference by Sales Channel
 
@@ -62,7 +67,8 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 **Findings**
 
-1. Most of the returning clinets purchased Furnitures and new customers purchased clothings.
+* Most of the returning clinets purchased Furnitures and new customers purchased clothings.
+
 
 ### Region Based Sales
 
@@ -70,15 +76,16 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 **Findings**
 
-1. The South region had the lowest sales and the North recorded the highest sales.
+* The South region had the lowest sales and the North recorded the highest sales.
+
 
 ### Sales Rep Performance
 
-![alt text](image-6.png)
+![alt text](images\image-6.png)
 
 **Findings**
 
-1. David was our best performing sales agent with 222 sales followed by Eve at 209 sales.
+* David was our best performing sales agent with 222 sales followed by Eve at 209 sales.
 
 
 ## Data Limitations
