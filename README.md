@@ -81,7 +81,7 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 ### Sales Rep Performance
 
-![alt text](images\image-6.png)
+![alt text](images/image-6.png)
 
 **Findings**
 
