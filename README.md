@@ -30,7 +30,7 @@ To achieve this, they have tasked me with analyzing the sales dataset to answer 
 
 ## Data Understanding
 
-The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset?resource=download. It contains 1000 rows and 14 columns and is in a csv format. During the data understanding we have done data cleaning.
+The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset?resource=download. It contains 1000 rows and 14 columns and is in a csv format. During the data understanding we note that the data did not have any duplicates, no missing values and outliers.
 
 
 ### Top 10 Fast Moving Products
@@ -67,7 +67,7 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 **Findings**
 
-* Most of the returning clinets purchased Furnitures and new customers purchased clothings.
+* Most of the returning clients purchased Furnitures and new customers purchased clothings.
 
 
 ### Region Based Sales
