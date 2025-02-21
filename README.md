@@ -35,7 +35,7 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 ### Top 10 Fast Moving Products
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 **Findings**
 
@@ -46,13 +46,13 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 ### Channels of Purchase
 
-![alt text](image-1.png)    
+![alt text](images/image-1.png)    
 
 * 512 products were sold via the retail channel and 488 products via the online platform.
 
 ### Payment Channel Preference
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 **Findings**
 
@@ -63,7 +63,7 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 ### Customer Type Preference by Sales Channel
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 **Findings**
 
@@ -72,7 +72,7 @@ The Dataset was downloaded from kaggle under the link: https://www.kaggle.com/da
 
 ### Region Based Sales
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 **Findings**
 
